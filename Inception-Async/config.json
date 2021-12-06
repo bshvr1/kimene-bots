@@ -1,0 +1,15 @@
+{
+
+    "tokens" : [
+        ""
+
+],
+
+    "token" : "",
+    "MongoURL": "mongodb+srv://kimeneshu:kimeneshu1231@cluster0.zwuvi.mongodb.net/İnception?retryWrites=true&w=majority",
+    "botOwner" : ["324130263036723200"],
+    "channelID" : "909036983354032179",
+    "guildID" : "904341970518966312",
+    "prefix" : "!",
+    "emoji": ""
+}
