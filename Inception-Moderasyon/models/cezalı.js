@@ -1,0 +1,9 @@
+const mongoose = require("mongoose");
+
+module.exports = mongoose.model("inception_cezalı", new mongoose.Schema({
+    user: { type: String }, 
+    yetkili: {type: String},
+    ceza: { type: Boolean, default: false},
+    sebep: { type: String, default: ""},
+    tarih: { type: String, default: ""}, 
+}));
